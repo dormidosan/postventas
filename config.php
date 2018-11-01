@@ -22,4 +22,10 @@ $base = 'db_intranet_tc';
 $user = 'root';
 $pass = 'raqxek-Bihxaj-5copza';
 */
+/*
+$server = '107.180.51.243';
+$base = 'db_intranet_tc';
+$user = 'usr_intranet_tc';
+$pass = 'DB_$In+r@n3+#';
+*/
 ?>
