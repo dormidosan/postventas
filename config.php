@@ -28,4 +28,5 @@ $base = 'db_intranet_tc';
 $user = 'usr_intranet_tc';
 $pass = 'DB_$In+r@n3+#';
 */
+
 ?>
